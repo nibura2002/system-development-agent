@@ -1,6 +1,7 @@
 [tool.poetry]
 name = "system-development-agent"
 version = "0.1.0"
+package-mode = false
 description = ""
 authors = ["nibura2002 <nibura2002@gmail.com>"]
 readme = "README.md"
