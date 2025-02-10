@@ -23,3 +23,7 @@ poetry run streamlit run main.py
 
 ## Tips
 - 作成したコードが初回の実行でそのまま完全に動作するとは限らない。フィードバックにエラーメッセージをコピペしてLLMに修正させることで改善することが多い
+
+
+
+test change
